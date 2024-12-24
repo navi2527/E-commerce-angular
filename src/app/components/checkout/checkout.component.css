@@ -1,0 +1,24 @@
+.text-center{
+    background-color: DodgerBlue; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 10px;
+    cursor: pointer;
+}
+
+.alert-danger{
+      padding: .7143rem 1.071rem;
+      margin-top: 1%;
+      margin-bottom: 0rem;
+      border-radius: 2px;
+      border: 1px solid transparent;
+      color: #b61220;
+      background-color: #f8d7da;
+      border-color: #EF5350;
+      font-size:smaller;
+}
